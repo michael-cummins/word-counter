@@ -1,1 +1,1 @@
-run = "clang++-7 -o main main.cpp ; ./main < samples.txt"
+run = "clang++-7 -o main main.cpp word.cpp; ./main < samples.txt"
